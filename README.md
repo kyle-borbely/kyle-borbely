@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a seasoned software engineer with over 10 years of experience, specializing in Python and working with frameworks like Django, Django REST framework, Flask, and FastAPI. But that's not all! I'm also well-versed in front-end technologies like React, Next.js, React Native, Vue.js, and Angular.
+
+When it comes to DevOps, I've got you covered too. I have hands-on experience with AWS, GCP, Azure, and Heroku, ensuring smooth deployment and seamless integration.
+
+Throughout my career, I've successfully delivered numerous projects using the skills mentioned above, as well as other languages and tools. I'm always up for a challenge and love pushing the boundaries to create innovative solutions.
+
+Together, we can embark on a journey of success, building solutions that set new standards in your business domain. Let's make amazing things happen!
